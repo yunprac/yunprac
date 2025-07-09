@@ -35,9 +35,9 @@
 
 <br/><br/>
 
-<!— <p align="center">
+<p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chldlsrb1000" width="300"/>
-</p> —>
+</p>
 
 <br/><br/>
 
